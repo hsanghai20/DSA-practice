@@ -25,11 +25,13 @@ void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
 
 
     // second method to merge oppositely and after lower array get finished then dont do anything
-    int upptr=m-1,lowptr=n-1,ansptr=m+n-1;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int upptr=m-1,lowptr=n-1,ansptr=m+n-1;
         while(lowptr>=0)
         {
-            if(upptr>=0 && nums1[upptr]>nums2[lowptr])
+            if(upptr>=0 && nums1[upptr]>nums[lowptr])
                 nums1[ansptr--]=nums1[upptr--];
             else
                 nums1[ansptr--]=nums2[lowptr--];
         }
+    }
