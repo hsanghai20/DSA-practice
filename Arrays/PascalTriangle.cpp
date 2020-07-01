@@ -1,3 +1,5 @@
+//Link : https://leetcode.com/problems/pascals-triangle/submissions/
+
 // Make pascal triangle
 
 void pascalrow(vector<vector<int>>& arr,int n)

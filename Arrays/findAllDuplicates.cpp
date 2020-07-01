@@ -1,3 +1,5 @@
+//Link - https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
  // Find all duplicates in o(1) space and o(n) time
 
  // method-1 best approach
