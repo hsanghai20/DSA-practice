@@ -1,5 +1,6 @@
 // Link: https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/
 
+// Same goes for the actvivity selection problems //
 
 // There is one meeting room in a firm. 
 //There are N meetings in the form of (S[i], F[i]) where S[i] is the start time of meeting i and F[i] is finish time of meeting i.
