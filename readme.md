@@ -82,5 +82,6 @@ Topic | Link
 Knight's Tour | https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/
 Rat In A Maze | https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 Subset Sum 1(partition) | https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
+Print All Power Subsets | https://leetcode.com/problems/subsets-ii/
 
 
