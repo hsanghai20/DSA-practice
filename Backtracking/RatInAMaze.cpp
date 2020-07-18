@@ -1,4 +1,4 @@
-//Link: https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/
+//Link: https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 
 // A rat starts from source and has to reach the destination. The rat can move only in two directions: forward and down.
 //In the maze matrix, 0 means the block is a dead end and 1 means the block can be used in the path from source to destination.
