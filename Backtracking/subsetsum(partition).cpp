@@ -4,18 +4,22 @@
 // such that the sum of elements in both subsets is equal.
 
 // solution(backtracking) can be better solve by dp 
-    bool canPartition(vector<int>& nums) {
-        int sum = 0;
-        for(int i =0;i<nums.size();i++){
-            sum+= nums[i];
-        }
-        if(sum%2) return false;
-        sum /= 2;
-        sort(nums.rbegin(),nums.rend());
-        return helper(nums, sum, 0);
+    bool ispossible(vector<int>& arr,int i,int sum)
+    {
+        if(i==arr.size() || sum<0)
+            return false;
+        if(sum==arr[i])
+            return true;
+        if(sum<arr[i])
+            return false;
+        return ispossible(arr,i+1,sum-arr[i]) || ispossible(arr,i+1,sum);
     }
-    bool helper(vector<int>& nums, int sum, int index){
-        if(sum == nums[index]) return true;
-        if(sum < nums[index]) return false;
-        return helper(nums,sum-nums[index],index+1) || helper(nums,sum,index+1);
+    bool canPartition(vector<int>& nums) {
+        int sum=0;
+        for (int i=0;i<nums.size();i++)
+            sum+=nums[i];
+        if(sum%2!=0)
+            return false;
+        sort(nums.rbegin(),nums.rend());//sort in dec order
+        return ispossible(nums,0,sum/2);
     }
