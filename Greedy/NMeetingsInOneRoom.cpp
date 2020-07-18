@@ -1,4 +1,4 @@
-// Link: https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/
+// Link: https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0
 
 // Same goes for the actvivity selection problems //
 

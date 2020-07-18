@@ -1,4 +1,4 @@
-// Link: https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/
+// Link: https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0
 
 // Given a value V, if we want to make a change for V Rs, and we have an infinite supply of each of 
 //the denominations in Indian currency, i.e., we have an infinite supply of { 1, 2, 5, 10, 20, 50, 100, 500, 1000}

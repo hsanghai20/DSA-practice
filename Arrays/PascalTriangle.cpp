@@ -1,4 +1,4 @@
-//Link : https://leetcode.com/problems/pascals-triangle/submissions/
+//Link : https://leetcode.com/problems/pascals-triangle/
 
 // Make pascal triangle
 

@@ -1,3 +1,5 @@
+//Link: https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
+
 // Given weights and values of n items, 
 //we need to put these items in a knapsack of capacity W to get the maximum total value in the knapsack.
 
