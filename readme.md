@@ -6,8 +6,8 @@
 # Links to the Problem Statements
 * Try doing this problems yourself before procedding towards answers
 * Arrays
-Topic | Link
---------------------
+|    Topic                | Link    |
+|:--------------------:   |         |
 Stock Buy and Sell | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Find All Duplicates | https://leetcode.com/problems/find-all-duplicates-in-an-array/
 Find the duplicate in an array of N integers | https://leetcode.com/problems/find-the-duplicate-number/
