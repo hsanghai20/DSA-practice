@@ -86,5 +86,6 @@ Print All Power Subsets | https://leetcode.com/problems/subsets-ii/
 Subset Sum 2(partition in k parts) | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 N Queen Problem | https://leetcode.com/problems/n-queens/
 Sudoku Solver | https://leetcode.com/problems/valid-sudoku/
+Print All Permutations | https://leetcode.com/problems/permutations/
 
 
