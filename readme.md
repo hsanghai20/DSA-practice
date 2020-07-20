@@ -88,5 +88,5 @@ N Queen Problem | https://leetcode.com/problems/n-queens/
 Sudoku Solver | https://leetcode.com/problems/valid-sudoku/
 Print All Permutations | https://leetcode.com/problems/permutations/
 Combination Sum 1 | https://leetcode.com/problems/combination-sum/
-
+Combination Sum 2 | https://leetcode.com/problems/combination-sum-ii/
 
