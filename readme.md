@@ -84,6 +84,6 @@ Rat In A Maze | https://practice.geeksforgeeks.org/problems/rat-in-a-maze-proble
 Subset Sum 1(partition) | https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
 Print All Power Subsets | https://leetcode.com/problems/subsets-ii/
 Subset Sum 2(partition in k parts) | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
-
+N Queen Problem | https://leetcode.com/problems/n-queens/
 
 
