@@ -85,5 +85,6 @@ Subset Sum 1(partition) | https://practice.geeksforgeeks.org/problems/subset-sum
 Print All Power Subsets | https://leetcode.com/problems/subsets-ii/
 Subset Sum 2(partition in k parts) | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 N Queen Problem | https://leetcode.com/problems/n-queens/
+Sudoku Solver | https://leetcode.com/problems/valid-sudoku/
 
 
