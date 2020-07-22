@@ -93,4 +93,9 @@ Palindrome Partitioning | https://leetcode.com/problems/palindrome-partitioning/
 Kth Permutation Sequence | https://leetcode.com/problems/permutation-sequence/
 Word Break | https://leetcode.com/problems/word-break/
 
+### Divide And Conquer
+Topic | Link 
+------------------- | ---------------------
+Square root of no | https://leetcode.com/problems/sqrtx/
+
 
