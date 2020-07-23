@@ -99,5 +99,6 @@ Topic | Link
 Square root of no | https://leetcode.com/problems/sqrtx/
 Matrix Median |  https://www.interviewbit.com/problems/matrix-median/
 Search In A 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix/
+Single Element In Sorted Array | https://leetcode.com/problems/single-element-in-a-sorted-array/
 
 
