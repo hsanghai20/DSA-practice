@@ -97,5 +97,6 @@ Word Break | https://leetcode.com/problems/word-break/
 Topic | Link 
 ------------------- | ---------------------
 Square root of no | https://leetcode.com/problems/sqrtx/
+Matrix Median |  https://www.interviewbit.com/problems/matrix-median/
 
 
