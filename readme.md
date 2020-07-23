@@ -106,6 +106,7 @@ Search In Rotated Array | https://leetcode.com/problems/search-in-rotated-sorted
 Topic | Link 
 ------------------- | ---------------------
 Power Of Two Or Not | https://leetcode.com/problems/power-of-two/
+Counting Bits |  https://leetcode.com/problems/counting-bits/
 
 
 
