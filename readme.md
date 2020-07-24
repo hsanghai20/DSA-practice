@@ -109,5 +109,6 @@ Power Of Two Or Not | https://leetcode.com/problems/power-of-two/
 Counting Bits |  https://leetcode.com/problems/counting-bits/
 Power Set |  https://leetcode.com/problems/subsets/
 MSB | https://www.geeksforgeeks.org/find-significant-set-bit-number/
+Square Of A No Without Multiply Or Divide | https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
 
 
