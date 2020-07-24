@@ -108,6 +108,6 @@ Topic | Link
 Power Of Two Or Not | https://leetcode.com/problems/power-of-two/
 Counting Bits |  https://leetcode.com/problems/counting-bits/
 Power Set |  https://leetcode.com/problems/subsets/
-
+MSB | https://www.geeksforgeeks.org/find-significant-set-bit-number/
 
 
