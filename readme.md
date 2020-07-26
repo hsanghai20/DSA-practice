@@ -121,5 +121,6 @@ Implement Stack Using Array | https://www.geeksforgeeks.org/stack-data-structure
 Implement Queue Using Stack | https://leetcode.com/problems/implement-queue-using-stacks/
 Implement Stack Using Queue | https://leetcode.com/problems/implement-stack-using-queues/
 Valid Paranthesis | https://leetcode.com/problems/valid-parentheses/
+Next Greater Element | https://leetcode.com/problems/next-greater-element-i/
 
 
