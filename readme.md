@@ -120,5 +120,6 @@ Implement Queue Using Array | https://www.geeksforgeeks.org/array-implementation
 Implement Stack Using Array | https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
 Implement Queue Using Stack | https://leetcode.com/problems/implement-queue-using-stacks/
 Implement Stack Using Queue | https://leetcode.com/problems/implement-stack-using-queues/
+Valid Paranthesis | https://leetcode.com/problems/valid-parentheses/
 
 
