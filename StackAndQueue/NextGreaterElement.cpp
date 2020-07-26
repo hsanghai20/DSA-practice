@@ -6,7 +6,7 @@
 // The Next Greater Number of a number x in nums1 is the first greater number to its right in nums2. 
 // If it does not exist, output -1 for this number.
 
-// solution: 
+// solution:-
 vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         unordered_map<int,int> m;
         stack<int> s;
