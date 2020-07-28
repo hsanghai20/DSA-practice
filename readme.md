@@ -125,5 +125,6 @@ Next Greater Element | https://leetcode.com/problems/next-greater-element-i/
 Largest Rectangle In Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram/
 Sliding Window Technique | https://leetcode.com/problems/sliding-window-maximum/
 Min Stack | https://leetcode.com/problems/min-stack/
+Rotting Orange | https://leetcode.com/problems/rotting-oranges/
 
 
