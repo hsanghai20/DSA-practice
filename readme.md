@@ -139,3 +139,4 @@ Implement strStr | https://leetcode.com/problems/implement-strstr/
 Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/
 Z ALGORITHM | https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/
 KMP ALGORITHM | https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+Minimum characters needed to be inserted in the beginning to make it palindromic | https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
