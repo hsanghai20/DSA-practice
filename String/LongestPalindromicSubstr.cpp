@@ -100,7 +100,7 @@ string longestPalindrome(string s) {
         // cout << str << endl;
         for(int i=0;i<2*n+1;i++)
         {
-            if(i<mir)
+            if(i<end)
             {
                 arr[i]=min(end-i,arr[mir-(i-mir)]);
             }
