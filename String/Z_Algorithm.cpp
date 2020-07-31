@@ -1,4 +1,4 @@
-// Link: https://practice.geeksforgeeks.org/problems/what-is-kmp-algorithm
+// Link: https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/
 
 // solution: 
 #include<bits/stdc++.h>
