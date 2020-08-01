@@ -143,3 +143,9 @@ Minimum characters needed to be inserted in the beginning to make it palindromic
 Check For Anagram | https://leetcode.com/problems/valid-anagram/
 Count And Say | https://leetcode.com/problems/count-and-say/
 Compare Version No | https://leetcode.com/problems/compare-version-numbers/
+
+### Binary Tree
+Topic | Link 
+------------------- | ---------------------
+InOrder |  https://leetcode.com/problems/binary-tree-inorder-traversal/
+PreOrder | https://leetcode.com/problems/binary-tree-preorder-traversal/
