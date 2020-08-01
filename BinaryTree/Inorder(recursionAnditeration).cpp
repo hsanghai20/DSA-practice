@@ -1,6 +1,6 @@
 // Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
 
-// solution: (recursion)
+// solution:(recursion)
 void inorder(TreeNode* root,vector<int>& ans)
     {
         if(root==NULL)
