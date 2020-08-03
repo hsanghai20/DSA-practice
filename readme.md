@@ -157,3 +157,4 @@ Level order traversal in spiral form | https://leetcode.com/problems/binary-tree
 Height Of A Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/
 Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree/
 Diameter Of a Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree/
+Same Tree | https://leetcode.com/problems/same-tree/
