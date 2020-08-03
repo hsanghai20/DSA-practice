@@ -1,6 +1,6 @@
 // Link: https://leetcode.com/problems/diameter-of-binary-tree/
 
-// solution:
+// solution :
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
