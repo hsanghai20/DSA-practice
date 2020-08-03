@@ -156,3 +156,4 @@ Top View | https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
 Level order traversal in spiral form | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 Height Of A Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/
 Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree/
+Diameter Of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree/
