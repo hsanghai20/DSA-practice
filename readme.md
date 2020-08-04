@@ -161,3 +161,4 @@ Same Tree | https://leetcode.com/problems/same-tree/
 Max Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum/
 LCA of a binary tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 Symetric Tree | https://leetcode.com/problems/symmetric-tree/
+Flatten Binary Tree In Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
