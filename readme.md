@@ -170,4 +170,5 @@ Topic | Link
 Search in a binary tree | https://leetcode.com/problems/search-in-a-binary-search-tree/
 Convert Sorted Array To BST | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 Valid Binary Tree | https://leetcode.com/problems/validate-binary-search-tree/
+LCA in binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
