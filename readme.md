@@ -163,3 +163,4 @@ LCA of a binary tree | https://leetcode.com/problems/lowest-common-ancestor-of-a
 Symetric Tree | https://leetcode.com/problems/symmetric-tree/
 Flatten Binary Tree In Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 Populate Next Right pointers of Tree | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+search in a binary tree | https://leetcode.com/problems/search-in-a-binary-search-tree/
