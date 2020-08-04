@@ -159,3 +159,4 @@ Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree/
 Diameter Of a Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree/
 Same Tree | https://leetcode.com/problems/same-tree/
 Max Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum/
+LCA of a binary tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
