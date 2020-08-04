@@ -158,3 +158,4 @@ Height Of A Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-
 Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree/
 Diameter Of a Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree/
 Same Tree | https://leetcode.com/problems/same-tree/
+Max Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum/
