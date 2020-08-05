@@ -174,5 +174,6 @@ LCA in binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-b
 Find the inorder predecessor/successor of a given Key in BST | https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
 Ceil And Floor Of Binary Tree | https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/
 Kth Smallest Element In BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+Find Pair With A Given Sum | https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 
 
