@@ -172,5 +172,6 @@ Convert Sorted Array To BST | https://leetcode.com/problems/convert-sorted-array
 Valid Binary Tree | https://leetcode.com/problems/validate-binary-search-tree/
 LCA in binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 Find the inorder predecessor/successor of a given Key in BST | https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
+Ceil And Floor Of Binary Tree | https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/
 
 
