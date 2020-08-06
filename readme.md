@@ -184,4 +184,5 @@ Longest Inc Subsequence | https://leetcode.com/problems/longest-increasing-subse
 Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/
 Edit Distance | https://leetcode.com/problems/edit-distance/
 Maximum Sum Inc Subsequence(same as longest inc subsequence) | https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0
+Min Path Sum | https://leetcode.com/problems/minimum-path-sum/
 
