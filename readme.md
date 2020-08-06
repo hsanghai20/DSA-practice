@@ -183,3 +183,5 @@ Maximum Product Subarray | https://leetcode.com/problems/maximum-product-subarra
 Longest Inc Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/
 Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/
 Edit Distance | https://leetcode.com/problems/edit-distance/
+Maximum Sum Inc Subsequence(same as longest inc subsequence) | https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0
+
