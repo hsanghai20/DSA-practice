@@ -186,4 +186,5 @@ Edit Distance | https://leetcode.com/problems/edit-distance/
 Maximum Sum Inc Subsequence(same as longest inc subsequence) | https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0
 Min Path Sum | https://leetcode.com/problems/minimum-path-sum/
 Coin Change | https://leetcode.com/problems/coin-change/
+Cutting Rod | https://practice.geeksforgeeks.org/problems/rod-cutting/0
 
