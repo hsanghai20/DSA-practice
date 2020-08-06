@@ -187,4 +187,5 @@ Maximum Sum Inc Subsequence(same as longest inc subsequence) | https://practice.
 Min Path Sum | https://leetcode.com/problems/minimum-path-sum/
 Coin Change | https://leetcode.com/problems/coin-change/
 Cutting Rod | https://practice.geeksforgeeks.org/problems/rod-cutting/0
+Word Break | https://leetcode.com/problems/word-break/
 
