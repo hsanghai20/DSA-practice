@@ -21,6 +21,7 @@ Pascal Triangle | https://leetcode.com/problems/pascals-triangle/
 Rotate Matrix | https://leetcode.com/problems/rotate-image/
 Set Matrix Zeros | https://leetcode.com/problems/set-matrix-zeroes/
 Sort Colors | https://leetcode.com/problems/sort-colors/
+Inversion Of Array(Using Merge Sort) | https://www.geeksforgeeks.org/counting-inversions/
 
 ### Two Pointers
 Topic | Link 
