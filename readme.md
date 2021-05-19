@@ -9,7 +9,7 @@
 
 Topic | Link 
 ------------------- | ---------------------
-Stock Buy and Sell | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[Stock Buy and Sell](https://github.com/hsanghai20/DSA-practice/blob/master/Arrays/BuyAndSellStock.cpp) | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Find All Duplicates | https://leetcode.com/problems/find-all-duplicates-in-an-array/
 Find the duplicate in an array of N integers | https://leetcode.com/problems/find-the-duplicate-number/
 Kadane’s Algorithm | https://leetcode.com/problems/maximum-subarray/
